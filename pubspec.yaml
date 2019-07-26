@@ -21,4 +21,13 @@ flutter:
   uses-material-design: true
   
   assets:
-    - images\erwin.jpg
+    - images/erwin.jpg
+
+  fonts:
+  - family: LobsterTwo
+    fonts:
+    - asset: fonts/LobsterTwo-Regular.ttf
+  
+  - family: Source Sans Pro
+    fonts:
+    - asset: fonts/SourceSansPro-Regular.ttf
